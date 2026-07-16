@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-9ozo5o.rtb-system.online/sitemap.xml
